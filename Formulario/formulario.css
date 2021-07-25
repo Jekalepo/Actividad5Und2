@@ -1,0 +1,22 @@
+.caja{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.form{
+    border: 1px solid black;
+    width: 500px;
+    height: 200px;
+    background: rosybrown;
+    box-shadow: 2px  2px  palevioletred;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+}
